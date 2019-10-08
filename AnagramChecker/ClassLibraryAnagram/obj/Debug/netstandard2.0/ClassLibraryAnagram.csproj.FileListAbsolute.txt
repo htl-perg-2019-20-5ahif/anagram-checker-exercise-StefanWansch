@@ -1,0 +1,8 @@
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\bin\Debug\netstandard2.0\ClassLibraryAnagram.deps.json
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\bin\Debug\netstandard2.0\ClassLibraryAnagram.dll
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\bin\Debug\netstandard2.0\ClassLibraryAnagram.pdb
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\obj\Debug\netstandard2.0\ClassLibraryAnagram.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\obj\Debug\netstandard2.0\ClassLibraryAnagram.AssemblyInfo.cs
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\obj\Debug\netstandard2.0\ClassLibraryAnagram.dll
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\obj\Debug\netstandard2.0\ClassLibraryAnagram.pdb
+D:\Schule\5.Klasse\Stropek\NVS\anagram-checker-exercise-StefanWansch\AnagramChecker\ClassLibraryAnagram\obj\Debug\netstandard2.0\ClassLibraryAnagram.csprojAssemblyReference.cache

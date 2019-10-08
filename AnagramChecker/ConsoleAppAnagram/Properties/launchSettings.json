@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppAnagram": {
+      "commandName": "Project",
+      "dictionaryFileName": "Dictionary.txt"
+    }
+  }
+}

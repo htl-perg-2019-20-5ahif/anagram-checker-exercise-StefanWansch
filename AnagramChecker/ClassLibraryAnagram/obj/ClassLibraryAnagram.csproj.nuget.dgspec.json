@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Schule\\5.Klasse\\Stropek\\NVS\\anagram-checker-exercise-StefanWansch\\AnagramChecker\\ClassLibraryAnagram\\ClassLibraryAnagram.csproj": {}
+  },
+  "projects": {
+    "D:\\Schule\\5.Klasse\\Stropek\\NVS\\anagram-checker-exercise-StefanWansch\\AnagramChecker\\ClassLibraryAnagram\\ClassLibraryAnagram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5.Klasse\\Stropek\\NVS\\anagram-checker-exercise-StefanWansch\\AnagramChecker\\ClassLibraryAnagram\\ClassLibraryAnagram.csproj",
+        "projectName": "ClassLibraryAnagram",
+        "projectPath": "D:\\Schule\\5.Klasse\\Stropek\\NVS\\anagram-checker-exercise-StefanWansch\\AnagramChecker\\ClassLibraryAnagram\\ClassLibraryAnagram.csproj",
+        "packagesPath": "C:\\Users\\Stefan Wansch\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5.Klasse\\Stropek\\NVS\\anagram-checker-exercise-StefanWansch\\AnagramChecker\\ClassLibraryAnagram\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan Wansch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
